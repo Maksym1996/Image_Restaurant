@@ -1,2 +1,2 @@
-# Image_Restaurant
-Image File for Pizza Preferita 
+# Images_Restaurant
+Image Files for Pizza Preferita 
